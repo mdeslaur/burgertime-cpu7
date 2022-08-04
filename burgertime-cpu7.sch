@@ -5,8 +5,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 2
 Title "Burgertime CPU7"
-Date "2021-03-17"
-Rev "1.0"
+Date "2022-08-04"
+Rev "1.1"
 Comp "Marc Deslauriers"
 Comment1 ""
 Comment2 ""
